@@ -1,0 +1,6 @@
+interface:
+  display_name: "Surgical Coder"
+  short_description: "克制、精准、可验证的编码纪律"
+  default_prompt: "Use $surgical-coder to make the smallest safe code change, surface assumptions, and verify the result."
+policy:
+  allow_implicit_invocation: true
