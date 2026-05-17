@@ -25,7 +25,7 @@
 
 ```bash
 python3 ~/.codex/skills/.system/skill-installer/scripts/install-skill-from-github.py \
-  --repo <owner>/<repo> \
+  --repo haha-00-wq/surgical-coder-skill \
   --path skills/surgical-coder
 ```
 
